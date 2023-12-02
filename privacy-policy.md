@@ -1,0 +1,1 @@
+- we do not handle or collect any sensitive user data
